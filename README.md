@@ -45,6 +45,13 @@ $ source venv/bin/activate
 ```
 
 ```sh
+# Installing flask in your virtual environment
+
+$ pip install flask
+
+```
+
+```sh
 # importing the application using the 'FLASK_APP' environment variable
 
 $ export Flask_APP = microblog.py
